@@ -1,0 +1,6 @@
+id,review,sentiment,confidence
+1,I loved the food and the service was great,POSITIVE,1.0
+2,"Terrible experience, very slow and rude",NEGATIVE,1.0
+3,"It was fine, nothing special",NEGATIVE,0.96
+4,"Absolutely fantastic, will come again",POSITIVE,1.0
+5,Not worth the money at all,NEGATIVE,1.0
