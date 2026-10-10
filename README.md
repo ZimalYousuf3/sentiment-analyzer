@@ -12,7 +12,7 @@ This project was built as a capstone project to apply real-world skills in data 
 2. Cleans the data (removes missing reviews, trims extra spaces)
 3. Runs each review through a Hugging Face AI sentiment model
 4. Adds `sentiment` and `confidence` columns to the data
-5. Prints a summary report (total reviews, % positive/negative, most confident positive review)
+5. Prints a summary report (total reviews, % positive/negative, most confident positive review) 
 6. Saves the final results to a new CSV file
 
 ---
